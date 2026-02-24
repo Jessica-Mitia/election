@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public enum VoteType {
+    VALID, BLANK, NULL
 }
